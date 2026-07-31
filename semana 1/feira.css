@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(243, 243, 119);
+}
+h1{
+    background-color: rgb(103, 118, 17);
+    color: yellow;
+    font-family: fantasy;
+    line-height: 1.6;
+}
+.feira{
+    background-color: rgb(233, 160, 3);
+    color: rgb(232, 247, 72);
+    font-family: cursive;
+    line-height: 1.2;
+}
+p{
+    color: rgb(134, 61, 8);
+    font-family: cursive;
+    line-height: 2.0;
+}
+.listas{
+    background-color: rgb(233, 160, 3);
+    color: rgb(233, 247, 72);
+    margin-right: 85%;
+}
+tr{
+    background-color: rgb(233, 247, 72);
+    color: rgb(232, 160, 3);
+    font-family: monospace;
+    line-height: 1.6;
+}
+.feira{
+    background-color: rgb(139, 95, 39);
+    color: rgb(233, 247, 72);
+}
