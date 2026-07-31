@@ -1,0 +1,25 @@
+body {
+    background-color: gold;
+    color: rgb(229, 6, 80);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+}
+
+.corte-de-titulo {
+    background-color: rgb(243, 49, 120);
+    color:rgb(244, 236, 97) ;
+    text-align: center;
+    line-height: 1.6;
+}
+
+.abelha{
+    background-color: rgb(228, 108, 158);
+    color: rgb(255, 233, 105);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    margin-right:85% ;
+}
+
+ul li {
+    list-style-type: "-> ";
+}
