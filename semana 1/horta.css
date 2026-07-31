@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(73, 167, 73);
+    color: rgb(12, 38, 4);
+    font-family: Verdana, Arial, sans-serif;
+    line-height: 1.6;
+}
+.horta-em-casa{
+    background-color: rgb(184, 238, 130);
+    color: rgb(31, 84, 13);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.6;
+}
+.horta-em-casa{
+    background-color: rgb(241, 224, 127);
+    color: olive;
+    font-family: fantasy;
+    line-height: 1.6;
+}
+ol {
+     color: rgb(44, 75, 14);
+}
