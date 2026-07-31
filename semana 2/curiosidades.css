@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(245, 249, 168);
+}
+h1{
+    background-color: rgb(90, 49, 43);
+    color: rgb(201, 114, 52);
+    line-height: 1.6;
+    font-family:sans-serif;
+}
+.recorte{
+    background-color: saddlebrown;
+    color:rgb(85, 7, 3);
+    font-family:serif;
+    line-height: 1.5;
+    margin-right: 75%;
+}
+.listas{
+    background-color: peru;
+    color: rgb(93, 16, 9);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 70%;
+}
+.listas02{
+    background-color:peru ;
+    color:rgb(93, 16, 9);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 75%;
+}
+p{
+  color: rgb(55, 6, 6);
+}
