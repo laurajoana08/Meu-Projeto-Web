@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(233, 209, 75);
+}
+.subtitulo{
+    background-color:goldenrod;
+    font-family: monospace;
+    margin-right: 75%;
+}
+p{
+    color:rgb(92, 30, 30);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.recorte{
+    color:rgb(92, 30, 30) ;
+    background-color: peru;
+    margin-right: 75%;
+}
