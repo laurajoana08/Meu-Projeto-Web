@@ -1,0 +1,33 @@
+body{
+    background-color: cornflowerblue;
+}
+h1{
+    background-color: rgb(40, 24, 142);
+    color: gold;
+    font-family: sans-serif;
+    line-height: 1.6;
+}
+.brasil{
+    background-color: rgb(95, 129, 163);
+    color: goldenrod;
+    font-family: cursive;
+    line-height: 1.6;
+}
+p{
+    color: rgb(54, 7, 6);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    line-height: 1.6;
+}
+.jogo{
+    background-color: khaki;
+    margin-right: 75%;
+    color: rgb(7, 62, 64);
+    font-family: cursive;
+}
+.copa{
+    background-color:khaki ;
+    color:rgb(7, 62, 64) ;
+    font-family: cursive;
+    line-height: 1.6;
+    margin-right: 75%;
+}
