@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(242, 244, 150);
+}
+h1{
+    background-color: rgb(18, 131, 183);
+    color: gold;
+    font-family: sans-serif;
+    line-height: 1.6;
+}
+.subtitulo{
+    background-color: cornflowerblue;
+    color:rgb(255, 255, 167);
+    margin-right: 75%;
+    font-family: cursive;
+    line-height: 1.6;
+}
+p{
+    color: saddlebrown;
+    line-height: 1.6;
+}
+.lista{
+    background-color:lightblue;
+    margin-right: 75%;
+    line-height: 1.7;
+    font-size: larger;
+    color:bisque;
+}
+.lista{
+    background-color: lightblue;
+color: bisque;
+font-size: larger;
+}
+a:hover{
+    color: black;
+    background-color: cornflowerblue;
+    font-family: cursive;
+}
