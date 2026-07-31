@@ -1,0 +1,16 @@
+body {
+    background-color:rgb(245, 245, 156);
+    color: darksalmon;
+    font-family: Verdana, Arial, sans-serif;
+    line-height: 1.6;
+}
+h1 {
+    background-color: rgb(173, 45, 111);
+    color: rgb(241, 222, 12);
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.6;
+}
+h2{
+    background-color: rgb(173, 45, 111);
+    color: rgb(241, 222, 12);
+}
