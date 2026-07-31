@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(78, 9, 9);
+    color: rgb(253, 255, 135);
+    font-family: Verdana, Arial, sans-serif;
+    line-height: 1.6;
+}
+
+h1{
+    background-color: rgb(245, 245, 97);
+    color: rgb(113, 16, 16);
+    font-family: verdana, Arial, sans-serif;
+    line-height: 1.6;
+}
