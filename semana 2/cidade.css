@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(238, 246, 92);
+}
+h1{
+    background-color:rgb(4, 83, 8);
+    color: rgb(215, 205, 18);
+    font-family:sans-serif;
+    line-height: 1.6;
+}
+.cidades{
+    background-color: rgb(230, 223, 9);
+    color: rgb(121, 120, 98);
+}
+.copa{
+    background-color: rgb(157, 135, 12);
+    color: rgb(252, 229, 15);
+    margin-right:75% ;
+}
+p{
+    line-height: 1.6;
+}
